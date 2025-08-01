@@ -117,7 +117,6 @@ export default function Main() {
                                         >
                                           <span>{itemData.title}</span>
                                           <span className="flex justify-start items-start">
-                                            {console.log(itemData)}
                                           </span>
                                         </div>{" "}
                                       </div>
